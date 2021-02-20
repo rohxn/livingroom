@@ -1,24 +1,17 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment", SONY SAB HD
 https://bit.ly/3fBsABhd
-#EXTINF: -1 tvg-name="Hungama TV " tvg-logo="" group-title="Kid", Hungama Tv
-https://bit.ly/3r8MwmA
-#EXTINF: -1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment", SONY SAB HD
-http://pn.tvott.info:80/477845056156344/477845056156344/83701
-
-
 #EXTINF: -1 tvg-name="Sony pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Entertainment", Sony pal
 https://bit.ly/30a3wsONyPal
-#EXTINF: -1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Entertainment", SONY PAL
-http://rv.therevenge.co:80/live/242424/242424/83700.m3u8?checkedby:hlscat.com
+#EXTINF: -1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", SONY HD
+https://bit.ly/3fKTNU8seTHd
 #EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" group-title="Entertainment", STAR PLUS HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83709
 #EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" group-title="Entertainment", Star Plus HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.47:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF: -1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony Hd
 http://pn.tvott.info:80/477845056156344/477845056156344/83706
-#EXTINF: -1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", SONY HD
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
 #EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
 http://rv.therevenge.co:80/live/242424/242424/83695.m3u8?checkedby:hlscat.com
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", COLORS HD
@@ -66,11 +59,13 @@ http://pn.tvott.info:80/477845056156344/477845056156344/83714
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Movies", Zee Cinema Hd(Link 2)
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Movies", Sony Max Hd
-http://pn.tvott.info:80/477845056156344/477845056156344/83705
-#EXTINF: -1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Movies", SONY MAX HD
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://bit.ly/32bsOnymAXhd
+#EXTINF: -1-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Movies", SONY MAX 2
+https://bit.ly/30dsoNYmaX2
 #EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/rQiIFTwapw.png" group-title="Movies", Star Gold HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83711
+EXTINF: -1 group-title="Movies", SONY WAH
+https://bit.ly/3j7sOnywAh
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg" group-title="Movies", Star Gold select HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83710
 #EXTINF: -1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies", Cineplex HD
@@ -79,8 +74,8 @@ http://pn.tvott.info:80/477845056156344/477845056156344/83681
 http://rv.therevenge.co:80/live/242424/242424/83681.m3u8?checkedby:hlscat.com
 #EXTINF: -1 group-title="Movies", TATA SKY BOLLYWOOD PREMIERE HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83633
-#EXTINF: -1 group-title="Movies", TATA SKY BOLLYWOOD HD
-http://rv.therevenge.co:80/live/242424/242424/83601.m3u8?checkedby:hlscat.com
+#EXTINF: -1 group-title="Movies", SONY PIX HD
+https://bit.ly/32sOnypIXhd
 #EXTINF: -1 group-title="Movies", TATA SKY BOLLYWOOD HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83601
 #EXTINF: -1 group-title="Movies", MOVIES ACTIVE HD
@@ -91,6 +86,7 @@ http://pn.tvott.info:80/477845056156344/477845056156344/83651
 http://pn.tvott.info:80/477845056156344/477845056156344/83631
 #EXTINF: -1 tvg-logo="https://assets.botallen.live/images/s/SXYZOkZSxV.png" group-title="Movies", Sony Max 2
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.49:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF: -1 tvg-logo="https://www.adgully.com/img/400x300/2011-09-UTV-Action-New-Logo.jpg" group-title="Movies", UTV Action
 http://pn.tvott.info:80/477845056156344/477845056156344/83632
 #EXTINF: -1 tvg-name="Zee Action" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeeaction/list/09zeeactionzeeaction.jpg" group-title="Movies", Zee Action
@@ -409,36 +405,6 @@ http://rv.therevenge.co:80/live/242424/242424/83691.m3u8?checkedby:hlscat.com
 http://pn.tvott.info:80/477845056156344/477845056156344/83713
 #EXTINF: -1 group-title="Music", MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF: -1 group-title="Bhakti/devotional", Sadhna (360p)
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-#EXTINF: -1 group-title="Bhakti/devotional", SADHNA PLUS (360p)
-http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
-#EXTINF: -1 group-title="Bhakti/devotional", Sanskaar
-http://pn.tvott.info:80/477845056156344/477845056156344/83547
-#EXTINF: -1 group-title="Bhakti/devotional", PARAS TV
-http://pn.tvott.info:80/477845056156344/477845056156344/83637
-#EXTINF: -1 group-title="Bhakti/devotional", HUNGAMA BHAKTI SAGAR HD
-http://pn.tvott.info:80/477845056156344/477845056156344/83658
-#EXTINF: -1 group-title="Bhakti/devotional", ARIHANT
-http://pn.tvott.info:80/477845056156344/477845056156344/83684
-#EXTINF: -1 group-title="Bhakti/devotional", DIVYA
-http://pn.tvott.info:80/477845056156344/477845056156344/83525
-#EXTINF: -1 group-title="Bhakti/devotional", AASTHA
-http://pn.tvott.info:80/477845056156344/477845056156344/83690
-#EXTINF: -1 group-title="Bhakti/devotional", AASTHA BHAJAN
-http://pn.tvott.info:80/477845056156344/477845056156344/83689
-#EXTINF: -1 group-title="Bhakti/devotional", PEACE OF MIND
-http://pn.tvott.info:80/477845056156344/477845056156344/83636
-#EXTINF: -1 group-title="Bhakti/devotional", SOHAM TV
-http://pn.tvott.info:80/477845056156344/477845056156344/83634
-#EXTINF: -1 group-title="Bhakti/devotional", VEDIC TV
-http://pn.tvott.info:80/477845056156344/477845056156344/83630
-#EXTINF: -1 group-title="Bhakti/devotional", OM SHANTI
-http://pn.tvott.info:80/477845056156344/477845056156344/83567
-#EXTINF: -1 group-title="Bhakti/devotional", SHUBH TV
-http://pn.tvott.info:80/477845056156344/477845056156344/83562
-#EXTINF: -1 group-title="Bhakti/devotional", PEACE MUSIC
-http://pn.tvott.info:80/477845056156344/477845056156344/83528
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" group-title="English", Star World HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.44:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English", Star Movies select HD
