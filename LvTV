@@ -46,45 +46,32 @@ https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8
 #EXTINF: -1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Rishtey
 https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H HUNGAMA TV
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",HUNGAMA TV
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123410
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H POGO HINDI
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",POGO HINDI
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123419
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | TS POGO HINDI
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",POGO HINDI
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123420
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H CARTOON NETWORK HINDI
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",CARTOON NETWORK HINDI
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123421
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | TS CARTOON NETWORK HD+
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",CARTOON NETWORK HD+
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123422
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H DISNEY JUNIOR
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",DISNEY JUNIOR
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123423
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H DISNEY CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",DISNEY CHANNEL
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123424
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H NICK HINDI
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",NICK HINDI
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123425
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | TS NICK HD
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",NICK HD
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123426
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H NICK+ FHD
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123427
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H NICK+ FHD ENGLISH
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123428
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | TS NICK JR HINDI
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123429
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H NICK JUNIOR HINDI
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123430
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H NICK JUNIOR ENG
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123431
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | TS NICKELODEON HD+
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123432
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | TS NICKELODEON JUNIOR
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123433
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H SONIC HINDI
+
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",SONIC HINDI
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123434
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | TS NICK SONIC
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",NICK SONIC
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123435
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | TS SONY YAY
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",SONY YAY
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123436
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | ZEE5 KIDS
+#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",ZEE5 KIDS
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123437
 #EXTINF: -1 tvg-name="Big Ganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-bigganga/list/09biggangabigganga.jpg" group-title="Entertainment", Big Ganga
 https://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
