@@ -109,11 +109,17 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Movies", Sony Max Hd
 https://bit.ly/32bsOnymAXhd
 #EXTINF: -1-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Movies", SONY MAX 2
-http://pn.tvott.info:80/477845056156344/477845056156344/83704
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | UTV ACTION
+https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123277
+#EXTINF:0 tvg-id="ext" group-title="Movies", SONY MAX SD
+https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123275
+#EXTINF:0 tvg-id="ext" group-title="Movies",UTV ACTION
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123296
-#EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",IN | D2H UTV ACTION
+#EXTINF:0 tvg-id="ext" group-title="Movies",UTV ACTION
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123297
+#EXTINF:0 tvg-id="ext" group-title="Movies",STAR GOLD UHD
+https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123264
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star GOLD FHD
+https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123265
 #EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/rQiIFTwapw.png" group-title="Movies", Star Gold HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83711
 EXTINF: -1 group-title="Movies",tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png, SONY WAH
@@ -121,7 +127,7 @@ https://bit.ly/3j7sOnywAh
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg" group-title="Movies", Star Gold select HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83710
 #EXTINF: -1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies", Cineplex HD
-http://pn.tvott.info:80/477845056156344/477845056156344/83681
+https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123243
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies", CINEPLEX HD
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123242
 #EXTINF: -1 group-title="Movies", TATA SKY BOLLYWOOD PREMIERE HD
