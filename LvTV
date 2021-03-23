@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment", SONY SAB HD
 https://bit.ly/3fBsABhd
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",SONY SAB HD
-http://tataskytv.indtv.me/server1/tatasky/ch_48.mpd
+http://airteltv.indtv.me/airtel/sonysabhd.mpd
 #EXTINF: -1 tvg-name="Sony pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Entertainment", Sony pal
 https://bit.ly/30a3wsONyPal
 #EXTINF: -1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", SONY HD
@@ -50,9 +50,9 @@ https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8
 #EXTINF: -1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Rishtey
 https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:0 tvg-id="ext" group-title="kids",Hungama Tv
+#EXTINF:0 tvg-id="ext" group-title="Kids",Hungama Kids
 http://star7.indtv.me/server1/redbox/index.m3u8
-#EXTINF:0 tvg-id="disney" group-title="kids",Disney
+#EXTINF:0 tvg-id="disney" group-title="Kids",Disney
 #EXTINF:0 tvg-id="ext" group-title="Kids",Nick Hindi
 http://indtv.me/jiotv/Nick_Hindi.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",Sonic Hindi
