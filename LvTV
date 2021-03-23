@@ -50,7 +50,7 @@ https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8
 #EXTINF: -1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Rishtey
 https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:0 tvg-id="ext" group-title="kids",Hungama Kids
+#EXTINF:0 tvg-id="ext" group-title="kids",Hungama Tv
 http://star7.indtv.me/server1/redbox/index.m3u8
 #EXTINF:0 tvg-id="disney" group-title="kids",Disney
 #EXTINF:0 tvg-id="ext" group-title="Kids",Nick Hindi
