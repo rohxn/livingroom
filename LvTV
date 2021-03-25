@@ -45,7 +45,7 @@ https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_
 #EXTINF: -1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Rishtey
 https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF: -1 group-title="Kids", SONY YAY
-http://rv.therevenge.co:80/live/242424/242424/83698.m3u8?checkedby:hlscat.com
+https://bit.ly/2WmsoNYYaY
 #EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",HUNGAMA TV
 https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123410
 #EXTINF:0 tvg-id="ext" group-title="[ INDIA ]",POGO HINDI
