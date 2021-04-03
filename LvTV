@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment", SONY SAB HD
 https://bit.ly/3fBsABhd
 #EXTINF: -1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment", SONY SAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1616813571~exp=1616813871~acl=*~id=99292433-c071-4764-81eb-19273ac19a5b~hmac=ffbae51c2a459e1362e2a483440a783834c2d384699f0e096859d1e9f6b87369&originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/fbe3a56a-41de-4bd0-be59-7f50310c220c:SIN2/master.m3u8
+http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8273ac19a5b~hmac=ffbae51c2a459e1362e2a483440a783834c2d384699f0e096859d1e9f6b87369&originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/fbe3a56a-41de-4bd0-be59-7f50310c220c:SIN2/master.m3u8
 
 #EXTINF: -1 tvg-name="Sony pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Entertainment", Sony pal
 https://bit.ly/30a3wsONyPal
